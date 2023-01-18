@@ -1,0 +1,10 @@
+CREATE TABLE favorite_books (
+id integer, 
+name text, 
+rating integer);
+
+INSERT INTO favorite_books (id, name, rating)
+VALUES
+(1, 'book1', 4),
+(2, 'book2', 5),
+(3, 'book3', 1);
