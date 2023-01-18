@@ -1,2 +1,2 @@
-# SQLExamples
-Example of SQL statements
+# SQL Examples
+Demonstration of SQL statements
