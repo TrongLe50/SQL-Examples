@@ -1,4 +1,3 @@
-```sql
 -- Creates candy_rating table with column names and datatypes
 CREATE TABLE candy_rating(
 id INTEGER PRIMARY KEY,
@@ -41,5 +40,3 @@ SELECT company, ROUND(AVG(rating), 1) AS Avg_Rating
 FROM candy_rating
 GROUP BY company
 ORDER BY AVG(rating) DESC;
-
-```
