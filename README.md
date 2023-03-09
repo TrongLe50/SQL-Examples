@@ -2,12 +2,11 @@
 **Demonstration of SQL statements**
 
 **AnimeTables.sql:** 
-*Creating multiple tables and adding values to the tables*
-- Analysis using:
-   - JOINS
-   - GROUP BY
-   - ORDER BY
-   - subquerys
+*Creating multiple tables and adding values to the tables. Analysis using:*
+- JOINS
+- GROUP BY
+- ORDER BY
+- subquerys
 
 **CreatingMultipleTables.sql:** 
 - CREATE
