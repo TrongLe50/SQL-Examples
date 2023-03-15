@@ -1,29 +1,30 @@
 # SQL Examples
-**Demonstration of SQL statements**
 
-**AnimeTables.sql:** 
+**[AnimeTables.sql:](https://github.com/TrongLe50/SQL-Examples/blob/main/AnimeTables.sql)** 
 *Creating multiple tables and adding values to the tables. Analysis using:*
 - JOINS
 - GROUP BY
 - ORDER BY
-- subquerys
+- Subquerys
 
-**CreatingMultipleTables.sql:** 
+**[CreatingMultipleTables.sql:](https://github.com/TrongLe50/SQL-Examples/blob/main/CreatingMultipleTables.sql)**
 - CREATE
 - INSERT INTO/VALUES
 
-**CreatingTable.sql:**
+**[CreatingTable.sql:](https://github.com/TrongLe50/SQL-Examples/blob/main/CreatingTable.sql)**
 - CREATE
 - INSERT INTO/VALUES
 
-**ExploringData.sql:**
+**[ExploringData.sql:](https://github.com/TrongLe50/SQL-Examples/blob/main/ExploringData.sql)**
 - CASE
 - GROUP BY
 - HAVING
-- ORDER BY.
+- ORDER BY
 
-**arcade_scoreboard.pgsql:**
+**[arcade_scoreboard.pgsql:](https://github.com/TrongLe50/SQL-Examples/blob/main/arcade_scoreboard.pgsql)**
 - CREATE
 - INSERT INTO/VALUES
-- DELETE
-- UPDATE
+- ALTER TABLE
+  - DELETE
+  - ADD
+  - UPDATE
