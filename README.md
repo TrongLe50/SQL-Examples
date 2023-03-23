@@ -16,7 +16,7 @@
 - INSERT INTO/VALUES
 
 **[ExploringData.sql:](https://github.com/TrongLe50/SQL-Examples/blob/main/ExploringData.sql)**
-- MIN/MAX/AVG
+- MIN/MAX/AVG/ROUND
 - COUNT
 - CASE
 - GROUP BY
